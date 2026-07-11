@@ -1,19 +1,22 @@
-<h2 style='margin-top:10.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:115%;font-size:17px;font-family:"Calibri",sans-serif;color:#4F81BD;'>Bize Ulaş / Contact Us / اتصل بنا </h2>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>Eğer yardıma ihtiyacın olursa aşağıdaki mail aracılığıyla bize ulaşabilirsin.</p>
-<div style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>
-    <ul style="margin-bottom:0cm;list-style-type: disc;">
-        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>E-posta: info.acilnumaralar@gmail.com</li>
-    </ul>
-</div>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>If you need help, you can contact us via the email below.</p>
-<div style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>
-    <ul style="margin-bottom:0cm;list-style-type: disc;">
-        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>E-mail: info.acilnumaralar@gmail.com</li>
-    </ul>
-</div>
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>إذا كانت لديك حاجة للمساعدة، يمكنك التواصل معنا عبر البريد الإلكتروني التالي:</p>
-<div style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>
-    <ul style="margin-bottom:0cm;list-style-type: disc;">
-        <li style='margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:0cm;line-height:115%;font-size:15px;font-family:"Cambria",serif;'>info.acilnumaralar@gmail.com :البريد الإلكتروني</li>
-    </ul>
-</div>
+<h1>AloTR — Destek / Support / الدعم</h1>
+
+<h2>Bize Ulaş</h2>
+<p>AloTR ile ilgili sorularınız, geri bildirimleriniz veya bir numara değişikliğini bildirmek için aşağıdaki e-posta üzerinden bize ulaşabilirsiniz. En kısa sürede yanıt vermeye çalışırız.</p>
+<ul>
+  <li>E-posta: <strong>tunahanaktay.apps@gmail.com</strong></li>
+</ul>
+
+<h2>Contact Us</h2>
+<p>For questions, feedback, or to report a number change in AloTR, you can reach us at the e-mail below. We try to respond as soon as possible.</p>
+<ul>
+  <li>E-mail: <strong>tunahanaktay.apps@gmail.com</strong></li>
+</ul>
+
+<h2>اتصل بنا</h2>
+<p>لأي أسئلة أو ملاحظات أو للإبلاغ عن تغيّر رقم في AloTR، يمكنك التواصل معنا عبر البريد الإلكتروني أدناه. سنحاول الرد في أقرب وقت ممكن.</p>
+<ul>
+  <li>البريد الإلكتروني: <strong>tunahanaktay.apps@gmail.com</strong></li>
+</ul>
+
+<hr>
+<p><em>AloTR bir acil ve yardım numaraları rehberidir; resmî acil servislerin yerine geçmez. Gerçek bir acil durumda lütfen doğrudan 112'yi arayın.</em></p>
